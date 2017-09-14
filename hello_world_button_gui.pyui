@@ -24,7 +24,7 @@
           "uuid" : "F2180DB9-9FFA-4313-A3E6-898CFE2F6CD2"
         },
         "frame" : "{{270, 102}, {228, 68}}",
-        "selected" : true,
+        "selected" : false,
         "nodes" : [
 
         ]
@@ -40,7 +40,43 @@
           "frame" : "{{472, 368}, {80, 32}}",
           "title" : "Click Here"
         },
-        "frame" : "{{236, 196}, {113, 42}}",
+        "frame" : "{{312, 313}, {113, 42}}",
+        "selected" : false,
+        "nodes" : [
+
+        ]
+      },
+      {
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "text" : "",
+          "font_name" : "<System>",
+          "name" : "city_ottawa_label",
+          "class" : "Label",
+          "alignment" : "left",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "2753A859-A2D8-43F5-BF61-99B4AB4AB677"
+        },
+        "frame" : "{{312, 192}, {150, 32}}",
+        "selected" : false,
+        "nodes" : [
+
+        ]
+      },
+      {
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "text" : "",
+          "font_name" : "<System>",
+          "name" : "province_ontario_label",
+          "class" : "Label",
+          "alignment" : "left",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "2AF88795-EE39-4399-97BF-B0B84BF5AF8A"
+        },
+        "frame" : "{{291, 246}, {171, 39}}",
         "selected" : false,
         "nodes" : [
 
