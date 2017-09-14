@@ -8,7 +8,9 @@ import ui
 
 def hello_world_touch_up_inside(sender):
 	  view['hello_world_label'].text = ("Hello, World!")
-
+	  view['city_ottawa_label'].text = ("Ottawa")
+	  view['province_ontario_label'].text = ("Ontario")
+	  
 view = ui.load_view()
 view.present('sheet')
 
